@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 18:34:12</sys_created_on>
+        <sys_id>c5406f554f22130030a8704ca310c7b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9040_test_ca_table.x_9040_test_ca.user</sys_name>
+        <sys_package display_value="Test CA" source="x_9040_test_ca">a4406b554f22130030a8704ca310c727</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test CA">a4406b554f22130030a8704ca310c727</sys_scope>
+        <sys_security_acl display_value="x_9040_test_ca_table">81406f554f22130030a8704ca310c7b5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c5406f554f22130030a8704ca310c7b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-06 18:34:12</sys_updated_on>
+        <sys_user_role display_value="x_9040_test_ca.user" name="x_9040_test_ca.user">3c406f554f22130030a8704ca310c751</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
